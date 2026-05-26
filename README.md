@@ -62,11 +62,11 @@ Natural language to SQL query translator powered by Google Gemini — making dat
 
 <div align="center">
 
-![Zohaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zohaib-commits&show_icons=true&theme=radical&title_color=00D9FF&icon_color=00D9FF&hide_border=true)
+![Zohaib's GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=Zohaib-commits&show_icons=true&theme=radical&title_color=00D9FF&icon_color=00D9FF&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Zohaib-commits&theme=radical&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib-commits&layout=compact&theme=radical&title_color=00D9FF&hide_border=true)
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Zohaib-commits&layout=compact&theme=radical&title_color=00D9FF&hide_border=true&langs_count=8)
 
 </div>
 
